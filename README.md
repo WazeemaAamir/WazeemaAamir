@@ -37,7 +37,7 @@ Design: Canva, Responsive UI Design
 📫 How to reach me
 
 - 📧 Email: wazeemaamir145@gmail.com
-- 💼 Portfolio: https://portfolio-vjrn.vercel.app/
+- 💼 Portfolio: [https://portfolio-vjrn.vercel.app/](https://my-portfolio-w9gs.vercel.app/)
 - 🐙 GitHub: @WazeemaAamir
 
 ⚡ Fun fact
